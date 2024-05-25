@@ -11,3 +11,4 @@
 5. Створити схему студента із полями name, age, gender, avgMark, onDuty
 6. Створити ендпоінт GET /students
 7. Створити ендпоінт GET /students/:studentId
+8. Задеплоїти додаток на vercel.com
