@@ -1,5 +1,5 @@
 ## План заняття
-
+Кахут https://create.kahoot.it/details/efa26022-686b-4907-b3ae-d570d3ec6eb0
 1. Створюємо пагінацію для GET /students
    - Пояснити що таке пагінація
    - Параметри пагінації: perPage, page, totalItems, totalPages, hasPreviousPage, hasNextPage
