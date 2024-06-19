@@ -1,5 +1,5 @@
 ## План занятя
-
+Кахут https://create.kahoot.it/details/a1b53969-0182-47cb-95cc-b600d2dd3ccf
 1. Створити додаток на Express з одним роутом Hello world!
 2. Розказати за зону відповідальності Express(input та output), middlewares, прицнип конвеєра в обробці запитів (img 1)
 3. Створити кастомні middleware обох видів для прикладу
