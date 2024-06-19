@@ -2,7 +2,7 @@
 
 1. Створюємо пагінацію для GET /students
    - Пояснити що таке пагінація
-   - Параметри пагінації: perPag, page, totalItems, totalPages, hasPreviousPage, hasNextPage
+   - Параметри пагінації: perPage, page, totalItems, totalPages, hasPreviousPage, hasNextPage
    - Валідація параметрів, дефолтні значення
    - додавання сортування до сервісу
 2. Створюємо сортування для GET /students
