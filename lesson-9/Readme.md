@@ -1,5 +1,5 @@
 ## План заняття
-
+Кахут https://create.kahoot.it/details/3b150cb9-00eb-4121-a5da-06bf0a1d4531
 1. Створюємо процес реєстрації користувача
 
 - Нова колекція User із полями name, email, password
